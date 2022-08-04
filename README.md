@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maxim
+- 👋 Hi, I’m frontend developer!
 - 👀 I’m interested in coding with Vue and React
 - 🌱 I’m currently learning Typescript, Vue3, Vite and Pinia
 - 📫 How to reach me: telegram - https://t.me/eremeev23
